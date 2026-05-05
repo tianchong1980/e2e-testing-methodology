@@ -1,6 +1,7 @@
 ---
 name: e2e-testing-methodology
 description: Comprehensive E2E testing methodology for web applications. Covers complete data flow testing, boundary testing, error handling verification, and visual validation patterns. Use when testing web applications end-to-end, verifying UI behavior, testing CRUD operations, or debugging navigation/display issues.
+author: tianchong1980
 ---
 
 # E2E Testing Methodology
