@@ -33,6 +33,9 @@ e2e-testing-methodology/
 ├── .claude-plugin/
 │   ├── plugin.json              # Skill metadata
 │   └── marketplace.json          # Marketplace entry
+├── references/
+│   ├── test-templates.md        # Code templates for testing patterns
+│   └── data-persistence.md      # Data persistence verification
 ├── examples/
 │   ├── complete_flow_test.py     # Full CRUD with data verification
 │   └── visual_verification.py    # Page content verification patterns
@@ -42,7 +45,7 @@ e2e-testing-methodology/
 ## Installation
 
 ```bash
-npx skills add https://github.com/yourusername/e2e-testing-methodology --skill e2e-testing-methodology
+npx skills add tianchong1980/e2e-testing-methodology
 ```
 
 Or install via [skills.sh](https://skills.sh).

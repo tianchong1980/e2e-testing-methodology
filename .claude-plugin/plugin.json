@@ -3,11 +3,10 @@
   "description": "Comprehensive E2E testing methodology for web applications. Covers complete data flow testing, boundary testing, error handling verification, and visual validation patterns. Includes navigation bug detection, field mapping error detection, module-level complete testing, and data persistence verification.",
   "version": "1.0.0",
   "author": {
-    "name": "Your Name",
-    "email": "your@email.com"
+    "name": "tianchong1980"
   },
-  "homepage": "https://github.com/yourusername/e2e-testing-methodology",
-  "repository": "https://github.com/yourusername/e2e-testing-methodology",
+  "homepage": "https://github.com/tianchong1980/e2e-testing-methodology",
+  "repository": "https://github.com/tianchong1980/e2e-testing-methodology",
   "keywords": [
     "e2e",
     "testing",
